@@ -1,3 +1,9 @@
+<!-- 
+Mischien handig:
+https://raw.githubusercontent.com/HenyPotter/HenyPotter/main/README.md
+https://raw.githubusercontent.com/Gapur/Gapur/main/README.md
+-->
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Blasix.Blasix)
 
 I am a full-stack software engineer and writer. I love programming.
