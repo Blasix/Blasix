@@ -12,6 +12,14 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently learning how to make a website with [Tailwind](https://tailwindcss.com/);
 - 💬 Ask me about anything, I am happy to help;
 
+
+
+
+
+
+
+
+
  📈 **My GitHub Stats:**
 
 <p>
