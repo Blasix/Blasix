@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/HenyPotter/HenyPotter/main/README.md
 https://raw.githubusercontent.com/Gapur/Gapur/main/README.md
 -->
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Blasix.Blasix)
+### Hi there, I'm Bas also known as Blasix! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Blasix.Blasix)
 
 ## I'm a Student, Gamer, Developer!!
 
@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/Gapur/Gapur/main/README.md
 - 👨🏻‍💻 I’m Making the best apps
 - 🥅 2022 Goals: Contribute more...
 - 💬 Ask me about anything, I am happy to help;
+
 
  📈 **My GitHub Stats:**
 
