@@ -6,16 +6,11 @@ https://raw.githubusercontent.com/Gapur/Gapur/main/README.md
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Blasix.Blasix)
 
-I am a full-stack software engineer and writer. I love programming.
+## I'm a Student, Gamer, Developer!!
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
-<!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
-
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning how to make a website with [Tailwind](https://tailwindcss.com/);
+- 🌱 I’m currently learning everything 🤣
+- 👨🏻‍💻 I’m Making the best apps
+- 🥅 2022 Goals: Contribute more...
 - 💬 Ask me about anything, I am happy to help;
 
  📈 **My GitHub Stats:**
