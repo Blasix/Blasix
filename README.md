@@ -20,5 +20,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
  📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blasix&count_private=true&show_icons=true&theme=dark&icon_color=4c71f2&border_radius=16" />
+[![Blasix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blasix&count_private=true&show_icons=true&theme=dark&icon_color=4c71f2&border_radius=16&hide_border=true)](https://github.com/Blasix)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blasix&langs_count=4&theme=dark&border_radius=16&hide_border=true)](https://github.com/Blasix)
