@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/Gapur/Gapur/main/README.md
 
 - 🌱 I’m currently learning everything 🤣
 - 👨🏻‍💻 I’m Making the best apps
-- 🥅 2022 Goals: Contribute more...
+- 🥅 2023 Goals: Contribute more...
 - 💬 Ask me about anything, I am happy to help;
 
 
