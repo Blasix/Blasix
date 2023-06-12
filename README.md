@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/HenyPotter/HenyPotter/main/README.md
 https://raw.githubusercontent.com/Gapur/Gapur/main/README.md
 -->
 
-### Hi there, I'm Bas also known as Blasix! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Blasix.Blasix)
+### Hi there, I'm Bas also known as Blasix!
 
 ## I'm a Student, Gamer, Developer!!
 
